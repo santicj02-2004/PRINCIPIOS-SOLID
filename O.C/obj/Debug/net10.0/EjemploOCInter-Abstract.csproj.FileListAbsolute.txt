@@ -1,0 +1,14 @@
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\EjemploOCInter-Abstract\obj\Debug\net10.0\EjemploOCInter-Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\EjemploOCInter-Abstract\obj\Debug\net10.0\EjemploOCInter-Abstract.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\EjemploOCInter-Abstract\obj\Debug\net10.0\EjemploOCInter-Abstract.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\EjemploOCInter-Abstract\obj\Debug\net10.0\EjemploOCInter-Abstract.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\EjemploOCInter-Abstract\bin\Debug\net10.0\EjemploOCInter-Abstract.exe
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\EjemploOCInter-Abstract\bin\Debug\net10.0\EjemploOCInter-Abstract.deps.json
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\EjemploOCInter-Abstract\bin\Debug\net10.0\EjemploOCInter-Abstract.runtimeconfig.json
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\EjemploOCInter-Abstract\bin\Debug\net10.0\EjemploOCInter-Abstract.dll
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\EjemploOCInter-Abstract\bin\Debug\net10.0\EjemploOCInter-Abstract.pdb
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\EjemploOCInter-Abstract\obj\Debug\net10.0\EjemploOCInter-Abstract.dll
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\EjemploOCInter-Abstract\obj\Debug\net10.0\refint\EjemploOCInter-Abstract.dll
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\EjemploOCInter-Abstract\obj\Debug\net10.0\EjemploOCInter-Abstract.pdb
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\EjemploOCInter-Abstract\obj\Debug\net10.0\EjemploOCInter-Abstract.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\EjemploOCInter-Abstract\obj\Debug\net10.0\ref\EjemploOCInter-Abstract.dll
