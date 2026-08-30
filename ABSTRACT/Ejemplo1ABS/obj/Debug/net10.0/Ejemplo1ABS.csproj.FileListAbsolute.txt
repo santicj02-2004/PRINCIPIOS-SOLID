@@ -1,0 +1,14 @@
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ABSTRACT\Ejemplo1ABS\bin\Debug\net10.0\Ejemplo1ABS.exe
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ABSTRACT\Ejemplo1ABS\bin\Debug\net10.0\Ejemplo1ABS.deps.json
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ABSTRACT\Ejemplo1ABS\bin\Debug\net10.0\Ejemplo1ABS.runtimeconfig.json
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ABSTRACT\Ejemplo1ABS\bin\Debug\net10.0\Ejemplo1ABS.dll
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ABSTRACT\Ejemplo1ABS\bin\Debug\net10.0\Ejemplo1ABS.pdb
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ABSTRACT\Ejemplo1ABS\obj\Debug\net10.0\Ejemplo1ABS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ABSTRACT\Ejemplo1ABS\obj\Debug\net10.0\Ejemplo1ABS.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ABSTRACT\Ejemplo1ABS\obj\Debug\net10.0\Ejemplo1ABS.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ABSTRACT\Ejemplo1ABS\obj\Debug\net10.0\Ejemplo1ABS.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ABSTRACT\Ejemplo1ABS\obj\Debug\net10.0\Ejemplo1ABS.dll
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ABSTRACT\Ejemplo1ABS\obj\Debug\net10.0\refint\Ejemplo1ABS.dll
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ABSTRACT\Ejemplo1ABS\obj\Debug\net10.0\Ejemplo1ABS.pdb
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ABSTRACT\Ejemplo1ABS\obj\Debug\net10.0\Ejemplo1ABS.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ABSTRACT\Ejemplo1ABS\obj\Debug\net10.0\ref\Ejemplo1ABS.dll

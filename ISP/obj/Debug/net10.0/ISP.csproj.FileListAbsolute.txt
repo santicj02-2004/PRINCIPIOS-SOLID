@@ -1,0 +1,14 @@
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ISP\bin\Debug\net10.0\ISP.exe
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ISP\bin\Debug\net10.0\ISP.deps.json
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ISP\bin\Debug\net10.0\ISP.runtimeconfig.json
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ISP\bin\Debug\net10.0\ISP.dll
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ISP\bin\Debug\net10.0\ISP.pdb
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ISP\obj\Debug\net10.0\ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ISP\obj\Debug\net10.0\ISP.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ISP\obj\Debug\net10.0\ISP.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ISP\obj\Debug\net10.0\ISP.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ISP\obj\Debug\net10.0\ISP.dll
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ISP\obj\Debug\net10.0\refint\ISP.dll
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ISP\obj\Debug\net10.0\ISP.pdb
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ISP\obj\Debug\net10.0\ISP.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\ISP\obj\Debug\net10.0\ref\ISP.dll

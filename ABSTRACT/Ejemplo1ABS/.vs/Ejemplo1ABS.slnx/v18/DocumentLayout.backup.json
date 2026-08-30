@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\ABSTRACT\\Ejemplo1ABS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7274939-A89E-46F3-8150-05A8603A292E}|Ejemplo1ABS.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\abstract\\ejemplo1abs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7274939-A89E-46F3-8150-05A8603A292E}|Ejemplo1ABS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7274939-A89E-46F3-8150-05A8603A292E}|Ejemplo1ABS.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\abstract\\ejemplo1abs\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7274939-A89E-46F3-8150-05A8603A292E}|Ejemplo1ABS.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7274939-A89E-46F3-8150-05A8603A292E}|Ejemplo1ABS.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\abstract\\ejemplo1abs\\classabs1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7274939-A89E-46F3-8150-05A8603A292E}|Ejemplo1ABS.csproj|solutionrelative:classabs1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassABS1.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\ABSTRACT\\Ejemplo1ABS\\ClassABS1.cs",
+              "RelativeDocumentMoniker": "ClassABS1.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\ABSTRACT\\Ejemplo1ABS\\ClassABS1.cs",
+              "RelativeToolTip": "ClassABS1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T15:33:20.143Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\ABSTRACT\\Ejemplo1ABS\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\ABSTRACT\\Ejemplo1ABS\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T16:18:13.364Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\ABSTRACT\\Ejemplo1ABS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\ABSTRACT\\Ejemplo1ABS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T15:31:59.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

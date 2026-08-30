@@ -1,0 +1,14 @@
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\INTERFAZ\Ejemplo1Interfaz\Ejemplo1Interfaz\obj\Debug\net10.0\Ejemplo1Interfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\INTERFAZ\Ejemplo1Interfaz\Ejemplo1Interfaz\obj\Debug\net10.0\Ejemplo1Interfaz.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\INTERFAZ\Ejemplo1Interfaz\Ejemplo1Interfaz\obj\Debug\net10.0\Ejemplo1Interfaz.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\INTERFAZ\Ejemplo1Interfaz\Ejemplo1Interfaz\obj\Debug\net10.0\Ejemplo1Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\INTERFAZ\Ejemplo1Interfaz\Ejemplo1Interfaz\bin\Debug\net10.0\Ejemplo1Interfaz.exe
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\INTERFAZ\Ejemplo1Interfaz\Ejemplo1Interfaz\bin\Debug\net10.0\Ejemplo1Interfaz.deps.json
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\INTERFAZ\Ejemplo1Interfaz\Ejemplo1Interfaz\bin\Debug\net10.0\Ejemplo1Interfaz.runtimeconfig.json
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\INTERFAZ\Ejemplo1Interfaz\Ejemplo1Interfaz\bin\Debug\net10.0\Ejemplo1Interfaz.dll
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\INTERFAZ\Ejemplo1Interfaz\Ejemplo1Interfaz\bin\Debug\net10.0\Ejemplo1Interfaz.pdb
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\INTERFAZ\Ejemplo1Interfaz\Ejemplo1Interfaz\obj\Debug\net10.0\Ejemplo1Interfaz.dll
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\INTERFAZ\Ejemplo1Interfaz\Ejemplo1Interfaz\obj\Debug\net10.0\refint\Ejemplo1Interfaz.dll
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\INTERFAZ\Ejemplo1Interfaz\Ejemplo1Interfaz\obj\Debug\net10.0\Ejemplo1Interfaz.pdb
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\INTERFAZ\Ejemplo1Interfaz\Ejemplo1Interfaz\obj\Debug\net10.0\Ejemplo1Interfaz.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\INTERFAZ\Ejemplo1Interfaz\Ejemplo1Interfaz\obj\Debug\net10.0\ref\Ejemplo1Interfaz.dll
