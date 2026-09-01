@@ -4,11 +4,17 @@ using System.Text;
 
 namespace LSP
 {
-    public class SPARROW:CLASE_ABS
+    public class SPARROW:Animal,IVolar
     {
-        public override void Fly()
+        public SPARROW(string nombre) : base(nombre) { }
+
+        public override void HacerSonido()
         {
-            Console.WriteLine($"Sparrow Flying");
+            Console.WriteLine($"EL GORREOON PÍA");
+        }
+        public void FLY()
+        {
+            Console.WriteLine($"EL GORREON TAMBIÉN VUELA");
         }
 
     }

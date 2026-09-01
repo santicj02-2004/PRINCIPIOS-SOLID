@@ -4,11 +4,17 @@ using System.Text;
 
 namespace LSP
 {
-    internal class EAGLE:CLASE_ABS
+    public class EAGLE:Animal,IVolar
     {
-            public override void Fly()
-            {
-                Console.WriteLine($"EAGLE Flying");
-            }
+        public EAGLE(string nombre) : base(nombre) { }
+
+        public override void HacerSonido()
+        {
+            Console.WriteLine($"EL ÁGUILA CHILLA");
+        }
+        public void FLY()
+        {
+            Console.WriteLine($"EL AGUILA TAMBIÉN VUELA");
+        }
     }
 }

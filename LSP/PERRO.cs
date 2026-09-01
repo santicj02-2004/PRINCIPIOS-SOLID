@@ -6,9 +6,12 @@ namespace LSP
 {
     public class PERRO:Animal
     {
-        public override void Sonido()
+        public PERRO(string Nombre) : base(Nombre) {  }
+
+        public override void HacerSonido()
         {
-            Console.WriteLine($"The dog barks");
+            Console.WriteLine($"EL PERRO LADRA MUCHO");
         }
+
     }
 }

@@ -12,3 +12,4 @@ C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\LSP\obj\
 C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\LSP\obj\Debug\net10.0\LSP.pdb
 C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\LSP\obj\Debug\net10.0\LSP.genruntimeconfig.cache
 C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\LSP\obj\Debug\net10.0\ref\LSP.dll
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\LSP\obj\Debug\net10.0\LSP.sourcelink.json

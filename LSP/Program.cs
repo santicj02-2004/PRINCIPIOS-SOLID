@@ -1,8 +1,24 @@
 ﻿using LSP;
+List<Animal> animales = new List<Animal>
+{
+new PERRO("DANTE"),
+new SPARROW("JACK"),
+new EAGLE("LIE")};
 
-SPARROW Gorreon = new SPARROW();
-Gorreon.Fly();
-EAGLE Aguila = new EAGLE();
-Aguila.Fly();
-PERRO perro1 = new PERRO();
-perro1.Sonido();
+foreach (var animal in animales)
+{
+    animal.HacerSonido();
+}
+
+// LSP 
+List<IVolar> voladores = new List<IVolar>
+            {
+                new SPARROW("Pepe"),
+                new EAGLE("Majestuosa")
+            };
+foreach (var volador in voladores)
+{
+    volador.FLY();
+}
+
+
