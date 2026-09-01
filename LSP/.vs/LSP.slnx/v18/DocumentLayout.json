@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\LSP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5CDF74D-70B8-447D-BE78-494FB1A71847}|LSP.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\lsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5CDF74D-70B8-447D-BE78-494FB1A71847}|LSP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CFF60A4-3371-A2E7-4C85-DAB9CDC4AA3A}|LSP.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\lsp\\clase_abs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFF60A4-3371-A2E7-4C85-DAB9CDC4AA3A}|LSP.csproj|solutionrelative:clase_abs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5CDF74D-70B8-447D-BE78-494FB1A71847}|LSP.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\lsp\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5CDF74D-70B8-447D-BE78-494FB1A71847}|LSP.csproj|solutionrelative:perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CFF60A4-3371-A2E7-4C85-DAB9CDC4AA3A}|LSP.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\lsp\\sparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFF60A4-3371-A2E7-4C85-DAB9CDC4AA3A}|LSP.csproj|solutionrelative:sparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5CDF74D-70B8-447D-BE78-494FB1A71847}|LSP.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\lsp\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5CDF74D-70B8-447D-BE78-494FB1A71847}|LSP.csproj|solutionrelative:eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CFF60A4-3371-A2E7-4C85-DAB9CDC4AA3A}|LSP.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\lsp\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFF60A4-3371-A2E7-4C85-DAB9CDC4AA3A}|LSP.csproj|solutionrelative:eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5CDF74D-70B8-447D-BE78-494FB1A71847}|LSP.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\lsp\\clase_abs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5CDF74D-70B8-447D-BE78-494FB1A71847}|LSP.csproj|solutionrelative:clase_abs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CFF60A4-3371-A2E7-4C85-DAB9CDC4AA3A}|LSP.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\lsp\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFF60A4-3371-A2E7-4C85-DAB9CDC4AA3A}|LSP.csproj|solutionrelative:perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5CDF74D-70B8-447D-BE78-494FB1A71847}|LSP.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\lsp\\sparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5CDF74D-70B8-447D-BE78-494FB1A71847}|LSP.csproj|solutionrelative:sparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CFF60A4-3371-A2E7-4C85-DAB9CDC4AA3A}|LSP.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\lsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFF60A4-3371-A2E7-4C85-DAB9CDC4AA3A}|LSP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CLASE_ABS.cs",
               "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\LSP\\CLASE_ABS.cs",
               "RelativeDocumentMoniker": "CLASE_ABS.cs",
               "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\LSP\\CLASE_ABS.cs",
               "RelativeToolTip": "CLASE_ABS.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-28T03:53:46.692Z",
               "IsPinned": true,
@@ -48,7 +48,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "SPARROW.cs",
               "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\LSP\\SPARROW.cs",
               "RelativeDocumentMoniker": "SPARROW.cs",
@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "EAGLE.cs",
               "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\LSP\\EAGLE.cs",
               "RelativeToolTip": "EAGLE.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-28T04:02:25.312Z",
               "IsPinned": true,
@@ -76,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PERRO.cs",
               "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\LSP\\PERRO.cs",
               "RelativeDocumentMoniker": "PERRO.cs",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\LSP\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

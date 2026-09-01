@@ -12,3 +12,4 @@ C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\DIP\obj\
 C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\DIP\obj\Debug\net10.0\DIP.pdb
 C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\DIP\obj\Debug\net10.0\DIP.genruntimeconfig.cache
 C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\DIP\obj\Debug\net10.0\ref\DIP.dll
+C:\Users\santi\OneDrive\Escritorio\Materias 2026-2\POO\PRINCIPIOS SOLID\DIP\obj\Debug\net10.0\DIP.sourcelink.json

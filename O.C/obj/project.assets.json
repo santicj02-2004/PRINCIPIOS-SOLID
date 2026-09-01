@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\EjemploOCInter-Abstract\\EjemploOCInter-Abstract.csproj",
+      "projectUniqueName": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\O.C\\EjemploOCInter-Abstract.csproj",
       "projectName": "EjemploOCInter-Abstract",
-      "projectPath": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\EjemploOCInter-Abstract\\EjemploOCInter-Abstract.csproj",
+      "projectPath": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\O.C\\EjemploOCInter-Abstract.csproj",
       "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\EjemploOCInter-Abstract\\obj\\",
+      "outputPath": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\O.C\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

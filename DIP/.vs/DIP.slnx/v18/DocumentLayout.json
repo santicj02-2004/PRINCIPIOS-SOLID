@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\DIP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01FC587C-ED8C-48AF-8F9D-34D6F56A6350}|DIP.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\dip\\notificationss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01FC587C-ED8C-48AF-8F9D-34D6F56A6350}|DIP.csproj|solutionrelative:notificationss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E31DAB12-DF8F-9FFB-29BC-22729007367E}|DIP.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\dip\\notificationss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31DAB12-DF8F-9FFB-29BC-22729007367E}|DIP.csproj|solutionrelative:notificationss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01FC587C-ED8C-48AF-8F9D-34D6F56A6350}|DIP.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\dip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01FC587C-ED8C-48AF-8F9D-34D6F56A6350}|DIP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E31DAB12-DF8F-9FFB-29BC-22729007367E}|DIP.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\dip\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31DAB12-DF8F-9FFB-29BC-22729007367E}|DIP.csproj|solutionrelative:mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01FC587C-ED8C-48AF-8F9D-34D6F56A6350}|DIP.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\dip\\sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01FC587C-ED8C-48AF-8F9D-34D6F56A6350}|DIP.csproj|solutionrelative:sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E31DAB12-DF8F-9FFB-29BC-22729007367E}|DIP.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\dip\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31DAB12-DF8F-9FFB-29BC-22729007367E}|DIP.csproj|solutionrelative:email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01FC587C-ED8C-48AF-8F9D-34D6F56A6350}|DIP.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\dip\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01FC587C-ED8C-48AF-8F9D-34D6F56A6350}|DIP.csproj|solutionrelative:email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E31DAB12-DF8F-9FFB-29BC-22729007367E}|DIP.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\dip\\sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31DAB12-DF8F-9FFB-29BC-22729007367E}|DIP.csproj|solutionrelative:sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01FC587C-ED8C-48AF-8F9D-34D6F56A6350}|DIP.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\dip\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01FC587C-ED8C-48AF-8F9D-34D6F56A6350}|DIP.csproj|solutionrelative:mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E31DAB12-DF8F-9FFB-29BC-22729007367E}|DIP.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\dip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31DAB12-DF8F-9FFB-29BC-22729007367E}|DIP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,35 +34,33 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "MENSAJE.cs",
               "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\DIP\\MENSAJE.cs",
               "RelativeDocumentMoniker": "MENSAJE.cs",
               "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\DIP\\MENSAJE.cs",
               "RelativeToolTip": "MENSAJE.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-28T04:40:32.175Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SMS.cs",
               "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\DIP\\SMS.cs",
               "RelativeDocumentMoniker": "SMS.cs",
               "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\DIP\\SMS.cs",
               "RelativeToolTip": "SMS.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-28T04:42:34.887Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "EMAIL.cs",
               "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\DIP\\EMAIL.cs",
               "RelativeDocumentMoniker": "EMAIL.cs",
@@ -71,8 +69,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-28T04:41:13.803Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -82,7 +79,7 @@
               "RelativeDocumentMoniker": "NOTIFICATIONSS.cs",
               "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\DIP\\NOTIFICATIONSS.cs",
               "RelativeToolTip": "NOTIFICATIONSS.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-28T04:43:19.297Z",
               "IsPinned": true,
@@ -90,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\DIP\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T04:35:52.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-28T04:35:52.375Z"
             }
           ]
         }
