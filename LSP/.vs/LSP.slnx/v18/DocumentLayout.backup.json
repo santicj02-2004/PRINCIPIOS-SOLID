@@ -11,8 +11,8 @@
       "RelativeMoniker": "D:0:0:{6CFF60A4-3371-A2E7-4C85-DAB9CDC4AA3A}|LSP.csproj|solutionrelative:perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CFF60A4-3371-A2E7-4C85-DAB9CDC4AA3A}|LSP.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\lsp\\clase_abs1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CFF60A4-3371-A2E7-4C85-DAB9CDC4AA3A}|LSP.csproj|solutionrelative:clase_abs1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CFF60A4-3371-A2E7-4C85-DAB9CDC4AA3A}|LSP.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\lsp\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFF60A4-3371-A2E7-4C85-DAB9CDC4AA3A}|LSP.csproj|solutionrelative:eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CFF60A4-3371-A2E7-4C85-DAB9CDC4AA3A}|LSP.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\lsp\\sparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +23,8 @@
       "RelativeMoniker": "D:0:0:{6CFF60A4-3371-A2E7-4C85-DAB9CDC4AA3A}|LSP.csproj|solutionrelative:interfaz1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CFF60A4-3371-A2E7-4C85-DAB9CDC4AA3A}|LSP.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\lsp\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CFF60A4-3371-A2E7-4C85-DAB9CDC4AA3A}|LSP.csproj|solutionrelative:eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CFF60A4-3371-A2E7-4C85-DAB9CDC4AA3A}|LSP.csproj|c:\\users\\santi\\onedrive\\escritorio\\materias 2026-2\\poo\\principios solid\\lsp\\clase_abs1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFF60A4-3371-A2E7-4C85-DAB9CDC4AA3A}|LSP.csproj|solutionrelative:clase_abs1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,17 +38,16 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CLASE_ABS1.cs",
               "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\LSP\\CLASE_ABS1.cs",
               "RelativeDocumentMoniker": "CLASE_ABS1.cs",
               "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\LSP\\CLASE_ABS1.cs",
               "RelativeToolTip": "CLASE_ABS1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-01T12:49:34.651Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -58,11 +57,10 @@
               "RelativeDocumentMoniker": "INTERFAZ1.cs",
               "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\LSP\\INTERFAZ1.cs",
               "RelativeToolTip": "INTERFAZ1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-01T14:56:32.154Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -72,25 +70,23 @@
               "RelativeDocumentMoniker": "SPARROW.cs",
               "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\LSP\\SPARROW.cs",
               "RelativeToolTip": "SPARROW.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-28T03:54:14.263Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "EAGLE.cs",
               "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\LSP\\EAGLE.cs",
               "RelativeDocumentMoniker": "EAGLE.cs",
               "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\LSP\\EAGLE.cs",
               "RelativeToolTip": "EAGLE.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-28T04:02:25.312Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -103,8 +99,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-28T04:06:09.595Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -114,7 +109,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\Materias 2026-2\\POO\\PRINCIPIOS SOLID\\LSP\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-28T03:52:44.173Z",
               "IsPinned": true,

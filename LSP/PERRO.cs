@@ -10,7 +10,7 @@ namespace LSP
 
         public override void HacerSonido()
         {
-            Console.WriteLine($"EL PERRO LADRA MUCHO");
+            Console.WriteLine($"EL PERRO {Nombre} LADRA MUCHO");
         }
 
     }

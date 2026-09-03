@@ -6,7 +6,7 @@ namespace DIP
 {
     public class NotificationService
     {
-        private readonly IMessageSender _messageSender;//declara un campo privado y de solo lectura dentro de una clase
+        private readonly IMessageSender _messageSender;
         public NotificationService(IMessageSender messageSender)
         {
             _messageSender = messageSender;

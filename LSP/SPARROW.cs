@@ -10,11 +10,11 @@ namespace LSP
 
         public override void HacerSonido()
         {
-            Console.WriteLine($"EL GORREOON PÍA");
+            Console.WriteLine($"EL GORREOON {Nombre} PÍA");
         }
         public void FLY()
         {
-            Console.WriteLine($"EL GORREON TAMBIÉN VUELA");
+            Console.WriteLine($"EL GORREON {Nombre} TAMBIÉN VUELA");
         }
 
     }
